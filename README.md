@@ -12,3 +12,5 @@
 ![gallow](./images/2.png)
 
 ## Beurten
+
+rare word frappant
